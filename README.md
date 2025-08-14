@@ -11,7 +11,8 @@ class PracticasIniciales:
         print("=============================================")
 
 
-Repositorio correspondiente de los talleres de las prácticas iniciales de la carrera de Ciencias y Sistemas. Segundo semestre del 2025.
+Repositorio correspondiente de los talleres de las prácticas iniciales de la carrera de
+Ciencias y Sistemas. Segundo semestre del 2025.
 
 Integrantes
 
