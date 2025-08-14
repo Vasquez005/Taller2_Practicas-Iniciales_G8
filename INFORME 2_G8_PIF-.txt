@@ -1,0 +1,49 @@
+Universidad de San Carlos de Guatemala
+Facultad de Ingeniería 
+Escuela de Ciencias y Sistemas 
+Practicas Iniciales “F-“
+Segundo Semestre 2025 
+Ing. Herman Igor Veliz Linares
+Tutores: Juan Samayoa, Enner Mendizabal
+
+
+
+
+
+
+
+
+INFORME NO. 2
+INSTALACIÓN DE UNA DISTRIBUCIÓN DE LINUX Y CONFIGURACIÓN DE REDES CABLEADAS E INALÁMBRICAS 
+
+
+
+
+
+
+Armando José Vásquez Castillo – 202401451
+Jackeline Stephany Rivera Argueta – 202401085
+Emily Maritza Tepeu Guacamaya – 202402955
+Gervin de Jesús Del Cid Jolón – 202400333
+Juan Manuel de León Martínez – 202300755
+Juan Pablo Morales Salazar – 202403125
+
+
+
+
+
+
+
+
+Enlace a documentación:
+https://github.com/Vasquez005/Taller2_Practicas-Iniciales_G8.git
+
+
+Enlace a video-tutorial1:
+https://youtu.be/2ffhPiqJjrg
+
+Enlace a video-tutorial2.1:
+https://youtu.be/jTqVKmm-cXk
+
+Enlace a video-tutorial2.2:
+https://youtu.be/A5_Lr9j1Rmk
